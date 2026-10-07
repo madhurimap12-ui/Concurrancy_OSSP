@@ -1,0 +1,38 @@
+[
+  {
+    "id": "os-notes",
+    "title": "Operating Systems Notes",
+    "category": "Notes",
+    "description": "Processes, threads, synchronization, memory and file systems.",
+    "filename": "operating_systems.txt",
+    "size": 144,
+    "updated": "2026-09-29 16:36:38"
+  },
+  {
+    "id": "cn-paper",
+    "title": "Computer Networks Question Paper",
+    "category": "Question Paper",
+    "description": "Sample networking examination resource.",
+    "filename": "computer_networks.txt",
+    "size": 125,
+    "updated": "2026-09-29 16:36:38"
+  },
+  {
+    "id": "dsa-lab",
+    "title": "DSA Laboratory Manual",
+    "category": "Lab Material",
+    "description": "Data structures and algorithm laboratory reference.",
+    "filename": "dsa_lab.txt",
+    "size": 92,
+    "updated": "2026-09-29 16:36:38"
+  },
+  {
+    "id": "r-pdf-concurrency",
+    "title": "University Concurrency Quick Reference",
+    "category": "PDF / Reference",
+    "description": "PDF explaining the concurrent request flow, OS concepts and benchmark purpose.",
+    "filename": "University_Concurrency_Quick_Reference.pdf",
+    "size": 2901,
+    "updated": "2026-09-29 16:42:06"
+  }
+]

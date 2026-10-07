@@ -1,0 +1,3 @@
+OPERATING SYSTEMS NOTES
+
+Processes, threads, CPU scheduling, synchronization, memory management, virtual memory, file systems and system calls.

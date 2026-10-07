@@ -1,0 +1,5 @@
+COMPUTER NETWORKS QUESTION PAPER
+
+1. Explain TCP three-way handshake.
+2. Compare TCP and UDP.
+3. Explain socket programming.
